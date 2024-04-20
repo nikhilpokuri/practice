@@ -1,4 +1,6 @@
 import math
+
+
 class Solution:
     def isprime(self,s):
         cou=0
